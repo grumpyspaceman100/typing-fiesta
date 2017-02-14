@@ -25,5 +25,4 @@ type_text → create animation → puff out(0.5, "cubic", 1.5)
 time → run after(1.0) {
 type_text → delete
 }
-data → board → post to wall
 }
