@@ -6,7 +6,10 @@ data → board → set background(colors → black)
 play_button := data → board → create picture(art → playbutton)
 play_button → set pos(data → board → width / 2, data → board → height / 2 - 100)
 play_button → set z index(5)
-code → playButton_events(play_button) 
-code → displayReadyText
-data → board → post to wall
-}
+code → playButton_events(play_button)
+quit_button := data → board → create picture(art → quitbutton)
+quit_button → set pos(data → board → width / 2, data → board → height / 2 + 100)
+quit_button → set z index(5)
+code → quitButton_events(quit_button)
+code → displayReadyText(false)
+data → board → post to wal
