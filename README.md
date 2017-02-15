@@ -6,7 +6,7 @@
 
 ##### Credits:
 
-> This game was built with the help of [TouchDevelop](https://www.touchdevelop.com/app) , [Piskel Drawing Tool](www.piskelapp.com) .
+> This game was built with the help of [TouchDevelop](https://www.touchdevelop.com/app) , [Piskel Drawing Tool](https://www.piskelapp.com) .
 
 ### Note: The game is currently playable on computers only, as it requires access to keyboard functionalities. However future updates will make it be playable and comfortable to play.
 
