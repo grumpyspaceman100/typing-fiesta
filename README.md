@@ -4,7 +4,7 @@
 
 ## Note: The code language used here(which is C++) and in other projects are just used to make the page look nicer. The actual programming language used is called the Touchdevelop Language(.tdc), an IDE made by Microsoft Research.
 
-This game was built with the help of [TouchDevelop Website](https://www.touchdevelop.com/app)
+This game was built with the help of [TouchDevelop Website](https://www.touchdevelop.com/app) .
 
 ### Note: The game is currently playable on computers only, as it requires access to keyboard functionalities. However future updates will make it be playable and comfortable to play.
 
