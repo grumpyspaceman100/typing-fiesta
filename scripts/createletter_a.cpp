@@ -13,5 +13,6 @@ if (show → equals(true)) {
 letter_a → show
 } else {
 letter_a → hide
+letter_a → set speed x(0)
 }
 }
